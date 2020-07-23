@@ -1,0 +1,14 @@
+menu music: 
+	replace the file called 'menu.mp3'
+
+duel music:
+	add mp3 or ogg files to the /bgm subdirectory
+	
+other duel music:
+	add the following files
+	'song-advantage.mp3'
+	'song-disadvantage.mp3'
+	'rockpaperscissors.mp3'
+
+deck edit music: 
+	replace the file called 'deck.mp3'
