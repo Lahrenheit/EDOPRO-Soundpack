@@ -1,6 +1,6 @@
-# EDOPRO-Musicpack
+# EDOPRO-Soundpack
 
-Music pack by Pastisha for EDOPRO
+Sound pack by Pastisha for EDOPRO
 
 Credits to original creators
 
@@ -12,8 +12,8 @@ in configs.json write
 
 ```
 {
-     			"url": "https://github.com/Pastisha/EDOPRO-MusicPack",
-      		        "repo_name": "Pastisha EDOPro Musicpack",
+     			"url": "https://github.com/Pastisha/EDOPRO-SoundPack",
+      		        "repo_name": "Pastisha EDOPro Soundpack",
      			"repo_path": "./sound/",
      			"should_update": true,
      			"should_read": true
