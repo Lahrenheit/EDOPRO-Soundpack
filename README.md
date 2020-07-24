@@ -12,7 +12,7 @@ in configs.json write
 
 ```
 {
-     			"url": "https://github.com/Pastisha/EDOPRO-SoundPack",
+     			"url": "https://github.com/Pastisha/EDOPRO-Soundpack",
       		        "repo_name": "Pastisha EDOPro Soundpack",
      			"repo_path": "./sound/",
      			"should_update": true,
