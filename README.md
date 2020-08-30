@@ -4,7 +4,7 @@ Sound pack by Naewt for EDOPRO
 
 Credits to original creators
 
-Discord: Pastisha#8564
+Discord: Naewt#8564
 
 ## Setup
 
