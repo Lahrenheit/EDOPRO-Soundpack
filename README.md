@@ -1,6 +1,6 @@
 # EDOPRO-Soundpack
 
-Sound pack by Naewt for EDOPRO
+Sound pack by Lahrenheit for EDOPRO
 
 Credits to original creators
 
