@@ -29,7 +29,6 @@ These files will be loaded and played; you may replace them with custom ones as 
 	nextturn.wav          : played when the next turn starts.
 	phase.wav             : played when you are moving from a phase to another.
 	playerenter.wav       : played when a player joins the room.
-	rockpaperscissors.wav :
 	removecounter.wav     : played when counters are removed from cards.
 	set.wav               : played when cards are set on the field.
 	shuffle.wav           : played when cards are shuffled.
