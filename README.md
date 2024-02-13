@@ -1,4 +1,4 @@
-# EDOPRO-Soundpack
+# EDOPRO-Soundpack [![Donate](https://tinyurl.com/2fjj49ru)](http://tinyurl.com/lahrenheit)
 
 Sound pack by Lahrenheit for EDOPRO
 
