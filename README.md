@@ -4,7 +4,6 @@ Sound pack by Lahrenheit for EDOPRO
 
 Credits to original creators
 
-Discord: Lahrenheit#8564
 
 ## Setup
 
