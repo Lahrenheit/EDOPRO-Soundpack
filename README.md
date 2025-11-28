@@ -7,7 +7,7 @@ Credits to original creators
 
 ## Setup
 
-in user_configs.json or configs.json write
+in user_configs.json or configs.json write:
 
 ```
 {
