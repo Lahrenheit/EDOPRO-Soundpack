@@ -4,6 +4,8 @@ Sound pack by Lahrenheit for EDOPRO
 
 Credits to original creators
 
+![Stars](https://img.shields.io/github/stars/Lahrenheit/EDOPRO-Soundpack?style=flat&label=Stars&color=ff69b4) ![Forks](https://img.shields.io/github/forks/Lahrenheit/EDOPRO-Soundpack?style=flat&label=Forks&color=orange) ![Watchers](https://img.shields.io/github/watchers/Lahrenheit/EDOPRO-Soundpack?style=flat&label=Watchers&color=blue)
+
 
 ## 🛠️ Setup
 
