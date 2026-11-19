@@ -1,7 +1,8 @@
 # <img src="https://projectignis.github.io/assets/img/ignis_logo.png" width="50" height="50"/>EDOPRO-Soundpack
 ![Stars](https://img.shields.io/github/stars/Lahrenheit/EDOPRO-Soundpack?style=flat&label=Stars&color=ff69b4) ![Forks](https://img.shields.io/github/forks/Lahrenheit/EDOPRO-Soundpack?style=flat&label=Forks&color=orange) ![Watchers](https://img.shields.io/github/watchers/Lahrenheit/EDOPRO-Soundpack?style=flat&label=Watchers&color=blue)
 ![Tamaño del repo](https://img.shields.io/github/repo-size/Lahrenheit/EDOPRO-Soundpack?style=flat) ![Última versión](https://img.shields.io/github/v/release/Lahrenheit/EDOPRO-Soundpack?style=flat&color=success)
-![Descargas totales](https://img.shields.io/github/downloads/Lahrenheit/EDOPRO-Soundpack/total?style=flat&color=blue)
+![Descargas totales](https://img.shields.io/github/downloads/Lahrenheit/EDOPRO-Soundpack/total?style=flat&color=blue) [![Donate](https://tinyurl.com/2fjj49ru)](http://tinyurl.com/lahrenheit)
+
 
 Sound pack by Lahrenheit for EDOPRO 
 
